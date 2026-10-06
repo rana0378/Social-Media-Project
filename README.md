@@ -19,4 +19,4 @@ Storage: AWS S3 for media uploads
 Deployment: Heroku, Netlify
 
 # Author
-Rana Nand'
+Rana Nandy
